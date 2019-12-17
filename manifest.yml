@@ -1,0 +1,6 @@
+applications:
+- name: flags
+  memory: 128M
+  host: flags
+  domain: mybluemix.net
+  command: python ./flags.py
